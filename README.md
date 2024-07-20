@@ -189,6 +189,9 @@ The Customer Dashboard provides an overview of customer data, trends, and behavi
 - Develop personalized engagement strategies for top customers to maintain and grow their loyalty.
 - Use insights from top customers to identify potential high-value customers and target them with tailored marketing efforts.
 
+#### Dashboard Link
+https://public.tableau.com/views/SalesandCustomerInsightsDashboards/SalesDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 ## Acknowledgements
 
 A special thanks to **Bara** for providing the valuable data and resources that have been crucial to the success of this project.
